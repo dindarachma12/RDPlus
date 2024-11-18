@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\Downloads\\MAGANG\\MAGIS (2)\\MAGIS (2)\\TesBlazor1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0B3740E6-7387-4ABE-9370-1899F3140346}|TesBlazor1\\TesBlazor1.csproj|c:\\users\\lenovo\\downloads\\magang\\magis (2)\\magis (2)\\tesblazor1\\tesblazor1\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B3740E6-7387-4ABE-9370-1899F3140346}|TesBlazor1\\TesBlazor1.csproj|solutionrelative:tesblazor1\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0B3740E6-7387-4ABE-9370-1899F3140346}|TesBlazor1\\TesBlazor1.csproj|c:\\users\\lenovo\\downloads\\magang\\magis (2)\\magis (2)\\tesblazor1\\tesblazor1\\components\\pages\\hc\\data fasilitas\\editfasilitas.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0B3740E6-7387-4ABE-9370-1899F3140346}|TesBlazor1\\TesBlazor1.csproj|solutionrelative:tesblazor1\\components\\pages\\hc\\data fasilitas\\editfasilitas.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 158,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +54,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\MAGANG\\MAGIS (2)\\MAGIS (2)\\TesBlazor1\\TesBlazor1\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "TesBlazor1\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\MAGANG\\MAGIS (2)\\MAGIS (2)\\TesBlazor1\\TesBlazor1\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "TesBlazor1\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T07:28:58.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "DataFasilitas.razor",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\MAGANG\\MAGIS (2)\\MAGIS (2)\\TesBlazor1\\TesBlazor1\\Components\\Pages\\HC\\Data Fasilitas\\DataFasilitas.razor",
               "RelativeDocumentMoniker": "TesBlazor1\\Components\\Pages\\HC\\Data Fasilitas\\DataFasilitas.razor",
@@ -62,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "EditFasilitas.razor",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\MAGANG\\MAGIS (2)\\MAGIS (2)\\TesBlazor1\\TesBlazor1\\Components\\Pages\\HC\\Data Fasilitas\\EditFasilitas.razor",
               "RelativeDocumentMoniker": "TesBlazor1\\Components\\Pages\\HC\\Data Fasilitas\\EditFasilitas.razor",
@@ -75,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "UbahFasilitas.razor",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\MAGANG\\MAGIS (2)\\MAGIS (2)\\TesBlazor1\\TesBlazor1\\Components\\Pages\\HC\\Data RDP\\UbahFasilitas.razor",
               "RelativeDocumentMoniker": "TesBlazor1\\Components\\Pages\\HC\\Data RDP\\UbahFasilitas.razor",
@@ -87,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PerbaruiRDP2.razor",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\MAGANG\\MAGIS (2)\\MAGIS (2)\\TesBlazor1\\TesBlazor1\\Components\\Pages\\HC\\Data RDP\\PerbaruiRDP2.razor",
               "RelativeDocumentMoniker": "TesBlazor1\\Components\\Pages\\HC\\Data RDP\\PerbaruiRDP2.razor",
